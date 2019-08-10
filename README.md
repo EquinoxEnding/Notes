@@ -1,2 +1,0 @@
-# Notes
-Only some notes.
